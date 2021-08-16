@@ -1,3 +1,3 @@
 ## Example Route Plan 
 
-[visualize route plan](route_plan.html)
+[visualize route plan](seattle_restaurant_solution.html)
